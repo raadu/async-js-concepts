@@ -1,0 +1,20 @@
+[
+    {
+        "type": "GPU",
+        "brand": "MSI",
+        "model": "1660 Super",
+        "available": true
+    },
+    {
+        "type": "GPU",
+        "brand": "Zotac",
+        "model": "GTX 2060",
+        "available": false
+    },
+    {
+        "type": "GPU",
+        "brand": "Colorful",
+        "model": "1650 Super",
+        "available": true
+    }
+]

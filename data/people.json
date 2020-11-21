@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Muneer",
+        "age": 24,
+        "alive": true,
+        "location": "Dhaka" 
+    },
+    {
+        "name": "Abdal",
+        "age": 30,
+        "alive": false,
+        "location": "Sirajgonj" 
+    }, 
+    {
+        "name": "Natasha",
+        "age": 20,
+        "alive": true,
+        "location": "Dhaka" 
+    }
+]

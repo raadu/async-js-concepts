@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Cat",
+        "age": 24,
+        "hasHorns": false,
+        "sound": "meaow meaow" 
+    },
+    {
+        "name": "Cow",
+        "age": 10,
+        "hasHorns": true,
+        "sound": "hamba hamba" 
+    }, 
+    {
+        "name": "Crocodile",
+        "age": 14,
+        "hasHorns": false,
+        "sound": "graw graw" 
+    }
+]
